@@ -1,0 +1,3 @@
+public enum EMethodType {
+	NM_NOISING_OBJECTIVE_FUNCTION, NM_NOISING_DATA, TA
+}
